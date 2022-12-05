@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+
+body {
+    background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-style: solid;
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 30px 30px 40px rgba(0, 0, 0, 0.2);
+  border-radius: 60px;
+  backdrop-filter: blur(10px);
+  margin-top: 150px;
+  padding: 30px;
+  font-size: 30px;
+  font-family: 'Lora', serif;
+}
+
+
